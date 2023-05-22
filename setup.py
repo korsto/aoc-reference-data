@@ -11,7 +11,7 @@ setup(
         'data/constants.json'
     ]},
     install_requires=[
-        'requests==2.22.0',
+        'requests==2.31.0',
         'ruamel.yaml==0.16.12'
     ]
 )
